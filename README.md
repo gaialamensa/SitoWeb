@@ -1,28 +1,3 @@
 # SitoWeb
 esercitazione 20/03/2026 Lamensa, De Franco, Macrini, Perrone
-<!DOCTYPE html>
-<html lang="it">
-<head>
-<meta charset="UTF-8">
-<title>Servizi</title>
-<style>
-body { font-family: Arial; margin: 40px; background-color: #f5f5f5; }
-ul { line-height: 1.8; }
-a { color: #0066cc; }
-</style>
-</head>
-<body>
 
-<h1>I nostri servizi</h1>
-
-<ul>
-<li>Vendita scarpe online</li>
-<li>Spedizione veloce in tutta Italia</li>
-<li>Reso gratuito entro 30 giorni</li>
-<li>Assistenza clienti dedicata</li>
-</ul>
-
-<p><a href="index.html">⬅ Torna alla Home</a></p>
-
-</body>
-</html>
